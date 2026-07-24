@@ -1,58 +1,58 @@
 ---
-title: Untitled
+title: Resume
 format:
   modern2-cv-pdf: default
-author: David Schoch
+author: Anoob prakash
 cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
 cvcolor: 
   main: B83B5E
   accent: 6A2C70
-jobtitle: Team Lead "Transparent Social Analytics"
+jobtitle: PostDoctoral Research Associate
 sidebar:
   image: ../img/prakash_2024.jpg
   bullets:
-    - Konstanz, Germany
-    - german
-    - married
+    - Purdue University
+    - Indiana, USA
+
   sections: 
     - name: Skills
       items:
         - text: R
           exp: 
-            text: "10+ yrs."
-            num: 1
+            text: "8+ yrs."
+            num: .8
         - text: Python
           exp: 
             text: "2 yrs."
             num: 0.2
-        - text: JavaScript
-          exp: 
-            text: "4 yrs."
-            num: 0.4
-        - text: Lua
-          exp: 
-            text: "1 yr."
-            num: 0.1
-        - text: Rmarkdown
+        - text: GIS
           exp: 
             text: "6 yrs."
             num: 0.6
-        - text: Quarto
+        - text: ML
           exp: 
-            text: "1 yr."
-            num: 0.1
-        - text: Data Analysis
-          exp: 
-            text: "9 years"
-            num: 0.9
-        - text: Web Scraping
+            text: "2 yr."
+            num: 0.2
+        - text: Rmarkdown
           exp: 
             text: "8 yrs."
-            num: 0.8
-        - text: Web Development
+            num: .8
+        - text: Quarto
           exp: 
-            text: "8 years"
-            num: 0.8
+            text: "4 yr."
+            num: 0.4
+        - text: Data Analysis
+          exp: 
+            text: "10 years"
+            num: 1
+        - text: Bioinformatics
+          exp: 
+            text: "6 yrs."
+            num: 0.6
+        - text: UNIX
+          exp: 
+            text: "6 years"
+            num: 0.6
     - name: Tools
       items:
         - Git
@@ -61,7 +61,7 @@ sidebar:
         - Terminal 
     - name: Education
       items:
-        - text: "Ph.D. Computer Science"
+        - text: "Ph.D. Plant Biology"
           inst: "University of Konstanz"
           time: "09/2012 - 11/2015"
           details: "Thesis: Positional Approach for Network Centrality"
@@ -72,20 +72,20 @@ sidebar:
     - name: Contact
       items:
         - icon: map-marker
-          text: Konstanz, Germany
+          text: Indiana, USA
         - icon: phone
-          text: "+XX XXXX XXXX"
+          text: "+1 802 777 6768"
         - icon: envelope
-          text: david@schochastics.net
+          text: anoobvinu@gmail.com
         - icon: home
-          text: mr.schochastics.net
-          href: https://mr.schochastics.net
+          text: website
+          href: https://anoobvinu07.github.io/
         - icon: github
-          text: schochastics
-          href: https://github.com/schochastics
-        - icon: twitter
-          text: schochastics
-          href: https://twitter.com/schochastics    
+          text: github
+          href: https://github.com/anoobvinu07
+        - icon: google
+          text: scholar
+          href: https://scholar.google.com/citations?hl=en&user=jIOSRMkAAAAJ 
 execute: 
   echo: false
 ---
@@ -96,6 +96,7 @@ cvevents <- function(tbl, when, what, where, descr) {
 
     command_start <- "\\cvevent"
     tbl[[where]] <- gsub("\n", " \\\\newline ", tbl[[where]])
+    tbl[[descr]] <- gsub("\n", " \\\\newline ", tbl[[descr]])
     res <- paste0(
         command_start, "{", tbl[[when]], "}", 
         "{", tbl[[what]], "}",
@@ -120,7 +121,7 @@ cvproj <- function(tbl,what,role,items){
 
 # Summary
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Highly skilled researcher with expertise in ecological and evolutionary genomics, plant biology, climate change and bioinformatics. Experienced in analyzing large-scale genomic data, conducting climate change adaptation studies, and teaching advanced scientific concepts. Adept at both independent and collaborative research in academic and non-academic settings.
 
 # Experience
 
@@ -129,12 +130,30 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 #| output: asis
 tibble::tribble(
     ~role, ~institution, ~dates, ~details,
-    "Team Lead for Transparent Social Analytics", "Department of Computational Social Science\nGESIS - Leibniz Institute for the Social Sciences", "03/2022 - Present", "I am coordinating a project to build an Open Science platform with reusable code and tutorials to analyze digital behaviour data. I am also doing research on Open Science practices and I implement tools to enhance reproducibility and make methods accessible in R",
-    "Presidential Fellow", "Sociology Department\nUniversity of Manchester", "09/2018 - 02/2022",
+    "Post Doctoral Research Associate", 
+    "Department of Forestry and Natural Resources \n Purdue University", 
+    "01/2026 - Present", 
+    "- Application of machine-learning approaches to investigate climate pre- or mal-adaptation for species with high restoration potential (SHRP) \n- Identifying seed sources for regeneration planting in zones of mal-adaptation.",
+    
+    "Presidential Fellow", 
+    "Sociology Department\nUniversity of Manchester", 
+    "09/2018 - 02/2022",
     "I did research on Disinformation on Social Media which involved the analysis of large scale and unstructured data sets with R and Bash",
-    "Post Doctoral Researcher", "Chair of Social Networks\nETH Zurich", "11/2017 - 08/2018", "I developed new methods to analyze social networks and I gathered and analyzed large datsets from Social Media APIs",
-    "Post Doctoral Researcher", "Department of Computer \\& Information Science\nUniversity of Konstanz", "10/2015 - 10/2017", "I developed new methods to analyze social networks and scraped, harmonized, and analyzed a large corpus of football data",
-    "Ph.D. Candidate", "Department of Computer \\& Information Science\nUniversity of Konstanz", "11/2012 - 09/2015", "I developed new methods to analyze social networks and implemented these methods in R packages using R and C++"
+    
+    "Post Doctoral Researcher", 
+    "Chair of Social Networks\nETH Zurich", 
+    "11/2017 - 08/2018", 
+    "I developed new methods to analyze social networks and I gathered and analyzed large datsets from Social Media APIs",
+    
+    "Post Doctoral Researcher", 
+    "Department of Computer \\& Information Science\nUniversity of Konstanz", 
+    "10/2015 - 10/2017", 
+    "I developed new methods to analyze social networks and scraped, harmonized, and analyzed a large corpus of football data",
+    
+    "Ph.D. Candidate", 
+    "Department of Computer \\& Information Science\nUniversity of Konstanz", 
+    "11/2012 - 09/2015", 
+    "I developed new methods to analyze social networks and implemented these methods in R packages using R and C++"
 ) |>
     cvevents(when = "dates", what = "role", where = "institution", descr = "details")
 ```
@@ -148,11 +167,23 @@ See my [github profile](https://github.com/schochastics) for a comprehensive lis
 #| output: asis
 tibble::tribble(
     ~what, ~role, ~items,
-    "R packages", "Creator and Maintainer", c("edgebundle", "graphlayouts", "levelnet", "netrankr", "netUtils", "networkdata", "PSAWR", "roughnet", "roughsf", "rtoot", "Rtumblr", "signnet", "snahelper", "webbotparseR", "webtrackR"),
-    "R packages", "Contributor", c("backbone", "ggraph", "multigraphr", "netropy", "rang", "rgraph6"),
-    "Quarto extensions", "Creator and Maintainer",
+    "R packages", 
+    "Creator and Maintainer", 
+    c("edgebundle", "graphlayouts", "levelnet", "netrankr", "netUtils", "networkdata", "PSAWR", "roughnet", "roughsf", "rtoot", "Rtumblr", "signnet", "snahelper", "webbotparseR", "webtrackR"),
+    
+    
+    "R packages", 
+    "Contributor",
+    c("backbone", "ggraph", "multigraphr", "netropy", "rang", "rgraph6"),
+    
+    
+    "Quarto extensions", 
+    "Creator and Maintainer",
     c("Academicons (shortcodes)", "Blackboard (revealjs theme)", "sketchy (html theme)", "share buttons (filter)", "nutshell (filter)", "quartocities (website template)", "quartocv (cv templates)"),
-    "soccerverse.com (football analytics website)", "Creator and Maintainer",
+    
+    
+    "soccerverse.com (football analytics website)", 
+    "Creator and Maintainer",
     c(
         "Manual and automated gathering of football results around the world",
         "Harmonizing data (e.g. club names and managers)",
