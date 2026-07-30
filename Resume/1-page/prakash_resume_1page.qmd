@@ -58,13 +58,13 @@ sidebar:
         - icon: envelope
           text: anoobvinu@gmail.com
         - icon: home
-          text: website
+          text: anoobvinu07.github.io
           href: https://anoobvinu07.github.io/
         - icon: github
-          text: github
+          text: github.com/anoobvinu07
           href: https://github.com/anoobvinu07
         - icon: google
-          text: scholar
+          text: publications
           href: https://scholar.google.com/citations?hl=en&user=jIOSRMkAAAAJ 
 execute: 
   echo: false
