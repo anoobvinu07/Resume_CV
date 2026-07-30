@@ -1,0 +1,89 @@
+---
+title: "Anoob Prakash"
+subtitle: "Modern Research Resume"
+format:
+  html:
+    toc: false
+    theme: cosmo
+    css: modern-resume.css
+    page-layout: full
+execute:
+  echo: false
+---
+
+::: {.hero}
+# Anoob Prakash
+Postdoctoral Research Associate in plant genomics, climate adaptation, and bioinformatics
+:::
+
+## Profile
+
+Researcher with training in plant biology, ecological and evolutionary genomics, climate adaptation, and computational analysis. Experience spans postdoctoral research, interdisciplinary collaboration, teaching, scientific writing, and restoration-focused applied genomics.
+
+## Core Strengths
+
+- Ecological and evolutionary genomics
+- Climate adaptation and restoration science
+- GWAS, genomic data analysis, and bioinformatics
+- R, Unix/Linux, Tidyverse, ArcGIS
+- Scientific communication, teaching, and data visualization
+
+## Experience
+
+### Purdue University — Postdoctoral Research Associate
+2026–Present
+
+- Investigates climate pre- or mal-adaptation using machine-learning approaches for species with high restoration potential.
+- Identifies seed sources for regeneration planting in zones of mal-adaptation.
+
+### University of Vermont — Graduate Research Assistant / Teaching Assistant
+2018–2025
+
+- Studied adaptive variation, introgression, and climate-associated traits in red spruce.
+- Applied GWAS, Bayesian methods, and large-scale genomic and phenotypic analyses.
+- Taught biology and ecology courses and trained students in R, lab methods, and research design.
+
+### The Nature Conservancy — Graduate Research Intern
+2021 & 2022
+
+- Applied genomic-assisted seed sourcing to restoration planning.
+- Supported post-planting evaluation across Virginia, West Virginia, and Maryland.
+
+### Kerala Agricultural University — Research and Teaching Roles
+2010–2016
+
+- Conducted pollution biology research in forest tree species.
+- Taught applied plant and forestry coursework and supported laboratory instruction.
+
+## Selected Publications
+
+- Prakash et al. (2024). *Applications in Plant Sciences*.
+- Lachmuth et al. (2023). *Ecological Monographs*.
+- Prakash et al. (2022). *Philosophical Transactions of the Royal Society B*.
+- Das et al. (2021). *Annals of Botany*.
+- Prakash et al. (2017). *Current Science*.
+
+## Education
+
+- **Ph.D., Plant Biology**, University of Vermont, 2018–2025
+- **M.Sc., Tree Physiology and Breeding**, Kerala Agricultural University, 2011–2014
+- **B.Sc., Forestry**, Kerala Agricultural University, 2007–2011
+
+## Awards and Fellowships
+
+- GradCAMP Climate Scholar, 2023–2024
+- NSF NRT Trainee (QuEST), 2018–2023
+- CALS Graduate Student Enhancement Fund, 2019 and 2024
+- Graduate College Conference Grant Program, 2024
+
+## Teaching and Service
+
+- Graduate Teaching Assistant at University of Vermont and Kerala Agricultural University
+- Peer reviewer for journals including BMC Genomics, New Phytologist, and Molecular Biology and Evolution
+- Graduate Student Senator, University of Vermont
+
+## Additional Information
+
+- Memberships: BSA, SSE, ASN
+- Certifications: Responsible Conduct of Research; Statistics and R; Introduction to Python for Data Science
+- References available on request

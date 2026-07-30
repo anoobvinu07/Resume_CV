@@ -1,0 +1,141 @@
+---
+title: "Anoop Vinu Prakash"
+subtitle: "Two-Column Quarto CV"
+format:
+  html:
+    toc: false
+    theme: flatly
+    css: twocolumn-cv.css
+    page-layout: full
+execute:
+  echo: false
+---
+
+:::: {.columns}
+::: {.column width="38%"}
+## Profile
+
+Researcher in ecological and evolutionary genomics, plant biology, climate adaptation, and bioinformatics.
+
+## Education
+
+**Ph.D., Plant Biology**  
+University of Vermont, 2018–2025
+
+**M.Sc., Tree Physiology and Breeding**  
+Kerala Agricultural University, 2011–2014
+
+**B.Sc., Forestry**  
+Kerala Agricultural University, 2007–2011
+
+## Skills
+
+- R, Unix/Linux, Python
+- ArcGIS, QGIS, Tidyverse
+- GWAS and bioinformatics
+- Climate and phenotypic data analysis
+- Data visualization
+- Quarto and R Markdown
+
+## Fellowships and Awards
+
+- GradCAMP Climate Scholar, 2023–2024
+- NSF NRT Trainee, 2018–2023
+- CALS Graduate Student Enhancement Fund, 2019 and 2024
+- Graduate College Conference Grant Program, 2024
+- UVM Graduate Student Senate Mini Grant, 2022
+
+## Memberships
+
+- Botanical Society of America
+- Society for the Study of Evolution
+- American Society of Naturalists
+
+## Certifications
+
+- Responsible Conduct of Research, 2026
+- Statistics and R, 2018
+- Introduction to Python for Data Science, 2018
+
+## References
+
+**Stephen R. Keller**  
+stephen.keller@uvm.edu
+
+**Matt Fitzpatrick**  
+mfitzpatrick@umces.edu
+
+**Kathryn Shallows**  
+katy.shallows@tnc.org
+:::
+
+::: {.column width="62%"}
+## Experience
+
+### Purdue University
+**Postdoctoral Research Associate** | 2026–Present
+
+- Machine-learning approaches to climate pre- or mal-adaptation.
+- Seed source identification for regeneration planting.
+
+### University of Vermont
+**Graduate Research Assistant** | 2018–2025
+
+- Adaptive variation and introgression research in red spruce.
+- Quantitative genetics, Bayesian analysis, GWAS, and bioinformatics.
+- Multi-year genomic, phenotypic, and climate datasets.
+
+**Graduate Teaching Assistant** | 2018–2025
+
+- Taught biology and ecology laboratory and data-analysis skills.
+- Mentored students in independent research and R workflows.
+
+### The Nature Conservancy
+**Graduate Research Intern** | 2021 & 2022
+
+- Genomic-assisted seed sourcing for red spruce restoration.
+- Contributed to restoration implementation and monitoring.
+
+### Kerala Agricultural University
+**Graduate Teaching Assistant** | 2014–2016
+
+- Supported teaching in plant and forestry-related subjects.
+
+**Graduate Research Assistant** | 2011–2014
+
+- Investigated particulate pollution effects on tree physiology and anatomy.
+
+## Selected Publications
+
+1. Prakash et al. (2024). *Applications in Plant Sciences*.
+2. Lachmuth et al. (2023). *Ecological Monographs*.
+3. Prakash et al. (2022). *Philosophical Transactions of the Royal Society B*.
+4. Das et al. (2021). *Annals of Botany*.
+5. Prakash et al. (2017). *Current Science*.
+6. Raj et al. (2016, 2019). *Indian Journal of Agroforestry*; *Range Management and Agroforestry*.
+
+## Talks and Presentations
+
+- Joint Congress on Evolutionary Biology, 2024
+- IUFRO World Congress, 2024
+- UVM Student Research Conference, 2024
+- Evolution 2023
+- Botany 2022
+- Forest Genetics Student and PostDoc Symposium, 2021
+
+## Teaching
+
+- Exploring Biology
+- Ecology and Evolution
+- Principles of Biology I and II
+- Forest Ecophysiology
+- Plant Biochemistry
+- Plant Biotechnology
+
+## Service
+
+- Peer reviewer for multiple journals in genomics, ecology, and evolution
+- Graduate Student Senator, University of Vermont
+- Leadership in athletics and student service
+:::
+::::

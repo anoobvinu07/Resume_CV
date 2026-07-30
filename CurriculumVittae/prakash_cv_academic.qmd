@@ -1,0 +1,196 @@
+---
+title: "Anoob Prakash"
+subtitle: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: flatly
+    css: academic-cv.css
+    page-layout: article
+  pdf:
+    toc: true
+execute:
+  echo: false
+---
+
+**Research areas:** Ecological and evolutionary genomics, plant biology, climate adaptation, bioinformatics  
+**Current role:** Postdoctoral Research Associate, Purdue University  
+**Email / phone / address:** Add preferred contact details here.
+
+## Professional Profile
+
+Highly skilled researcher with expertise in ecological and evolutionary genomics, plant biology, climate change, and bioinformatics. Experienced in analyzing large-scale genomic data, conducting climate change adaptation studies, and teaching advanced scientific concepts. Adept at both independent and collaborative research in academic and non-academic settings.
+
+## Education
+
+### University of Vermont
+**Ph.D., Plant Biology**, 2018–2025  
+Advisor: Dr. Stephen R. Keller
+
+### Kerala Agricultural University
+**M.Sc., Tree Physiology and Breeding**, 2011–2014  
+Advisor: Dr. A.V. Santhoshkumar
+
+### Kerala Agricultural University
+**B.Sc., Forestry**, 2007–2011  
+Advisor: Dr. T.K. Kunhamu
+
+## Appointments
+
+### Purdue University, USA
+**Postdoctoral Research Associate**, 2026–Present
+
+- Application of machine-learning approaches to investigate climate pre- or mal-adaptation for species with high restoration potential.
+- Identifying seed sources for regeneration planting in zones of mal-adaptation.
+
+### University of Vermont, USA
+**Graduate Research Assistant**, 2018–2025
+
+- Investigated genotypic and phenotypic variation and climate change adaptation in red spruce.
+- Quantified biomass and trait variance using quantitative genetics and Bayesian approaches.
+- Investigated introgression and its role in local adaptation.
+- Used GWAS and bioinformatic methods to study adaptive trait architecture.
+
+**Graduate Teaching Assistant**, 2018–2025
+
+- Taught Principles of Biology I and II, Exploring Biology, and Ecology and Evolution.
+- Trained students in genetics, wet lab methods, microscopy, protein purification, SDS-PAGE, and data analysis in R.
+
+### The Nature Conservancy, USA
+**Graduate Research Intern**, 2021 & 2022
+
+- Applied genomic-assisted seed source selection for red spruce restoration.
+- Contributed to restoration efforts resulting in over 58,000 seedlings planted across three states.
+
+### Kerala Agricultural University, India
+**Graduate Teaching Assistant**, 2014–2016
+
+- Supported teaching in biochemistry, biotechnology, tree improvement, tree physiology, world forest systems, and ecophysiology.
+
+**Graduate Research Assistant**, 2011–2014
+
+- Investigated particulate pollution impacts on growth, physiology, and anatomy in teak and other deciduous tree species.
+
+**Independent Undergraduate Researcher**, 2010–2011
+
+- Studied home garden structure and integrated farming system models.
+- Assisted forest management planning for Konni Forest Division.
+
+## Fellowships
+
+- GradCAMP Climate Scholar, USDA and West Virginia State University, 2023–2024
+- NSF Research Traineeship (NRT) Trainee, QuEST, University of Vermont, 2018–2023
+
+## Peer-Reviewed Publications
+
+1. Prakash, A., Lachmuth, S., Capblancq, T., Butnor, J., Johnsen, K., Fitzpatrick, M., Nelson, D., and Keller, S. In prep. *Molecular Ecology*.
+2. Verrico, B.M., Prakash, A., Worthing, B., Munson, H., Capblancq, T., Bardsley, K., Kaufman, N., Seligmann, W., and Keller, S.R. In prep. *Tree Genetics & Genomics*.
+3. Prakash, A., Capblancq, T., Shallows, K., Saville, D., Landau, D., Landress, C., Jacobs, T., and Keller, S. 2024. *Applications in Plant Sciences* 12(3): e11600.
+4. Lachmuth, S., Capblancq, T., Prakash, A., Keller, S.R., and Fitzpatrick, M.C. 2023. *Ecological Monographs* e1593.
+5. Prakash, A., DeYoung, S., Lachmuth, S., Adams, J.L., Johnsen, K., Butnor, J.R., Nelson, D.M., Fitzpatrick, M.C., and Keller, S.R. 2022. *Philosophical Transactions of the Royal Society B* 377(1848): 20210008.
+6. Das, A., Prakash, A., Dedon, N., Doty, A., Siddiqui, M., and Preston, J.C. 2021. *Annals of Botany* 128(1): 83–95.
+7. Raj, R.M., Raj, A.K., Kunhamu, T.K., and Prakash, A. 2019. *Range Management and Agroforestry* 40(2): 255–261.
+8. Prakash, A., Santhoshkumar, A.V., and Roby, P.C. 2017. *Current Science*.
+9. Raj, R.M., Raj, A.K., and Prakash, A. 2016. *Indian Journal of Agroforestry* 18(2): 79–85.
+10. Prakash, A., Santhoshkumar, A.V., and Roby, P.C. 2016. *International Journal of Science, Environment and Technology* 5: 537–546.
+
+## Conference Presentations
+
+### Talks
+
+- 2024 — 3rd Joint Congress on Evolutionary Biology, Montreal, QC, Canada
+- 2024 — IUFRO World Congress, Stockholm, Sweden
+- 2024 — UVM Student Research Conference, Burlington, Vermont, USA
+- 2023 — Evolution 2023, Albuquerque, New Mexico, USA
+- 2022 — Botany 2022, Anchorage, Alaska, USA
+- 2021 — Forest Genetics Student and PostDoc Symposium, Virtual
+
+### Posters and Outreach
+
+- CASRI Annual Meeting, 2023
+- Science Olympiad outreach, University of Vermont, 2023
+- Red Spruce Climate Change Workshop, 2021
+- Joint Congress on Evolutionary Biology poster, 2024
+- UVM Board of Trustees poster session, 2024
+- Additional poster presentations in 2019, 2015, and 2014
+
+## Teaching Experience
+
+### University of Vermont
+- Exploring Biology, 2022, 2023
+- Ecology and Evolution, 2022–2025
+- Principles of Biology 1, 2018, 2019, 2021
+- Principles of Biology 2, 2019, 2020
+
+### Kerala Agricultural University
+- Forest Ecophysiology, 2013–2015
+- Plant Biochemistry, 2013–2014
+- Ethnobotany, 2015
+- Plant Biotechnology, 2015
+- World Forestry System, 2015
+- Principles of Tree Improvement, 2015
+- Elementary Tree Physiology, 2014–2015
+- Medicinal and Aromatic Plants, 2015
+- Weapon Training and First Aid Training, 2014–2015
+
+## Grants and Awards
+
+- CALS Graduate Student Enhancement Fund with departmental match, 2024
+- Graduate College Conference Grant Program with departmental match, 2024
+- UVM Graduate Student Senate Mini Grants with departmental match, 2022
+- CALS Graduate Student Enhancement Fund with departmental match, 2019
+
+## Skills
+
+### Technical
+- R, Unix/Linux, Python
+- ArcGIS, QGIS, Tidyverse
+- Genomic, phenotypic, and climate data analysis
+- Bioinformatic pipelines and climate forecasting
+- Graphical data visualization
+
+### Communication and Design
+- Affinity Designer, Adobe Illustrator, Adobe After Effects
+- Quarto, R Markdown, MS Office, Google Workspace
+
+### Research and Field
+- Statistical data analysis
+- Wet lab techniques
+- Field data collection methodologies
+
+## Service, Memberships, and Certifications
+
+### Peer Review and Service
+- Peer reviewer for BMC Genomics, Evolutionary Applications, New Forests, Journal of Heredity, Molecular Biology and Evolution, New Phytologist, G3, Ecological Monographs, Frontiers in Plant Science, and Ecological Indicators.
+- Graduate Student Senator, University of Vermont, 2018–2020
+- National Cadet Corps, 2008–2009
+- National Service Scheme, 2007–2008
+- Leadership roles in collegiate basketball and coaching
+
+### Memberships
+- Botanical Society of America
+- Society for the Study of Evolution
+- American Society of Naturalists
+
+### Certifications
+- Responsible Conduct of Research (CITI), 2026
+- Statistics and R, 2018
+- Introduction to Python for Data Science, 2018
+
+## References
+
+### Stephen R. Keller
+Associate Professor and Assistant Chair, Department of Plant Biology, University of Vermont  
+Email: stephen.keller@uvm.edu  
+Phone: (802) 656-5121
+
+### Matt Fitzpatrick
+Associate Director for Research and Professor, Appalachian Laboratory, University of Maryland  
+Email: mfitzpatrick@umces.edu  
+Phone: (301) 689-7131
+
+### Kathryn Shallows
+Restoration & Public Lands Manager, The Nature Conservancy  
+Email: katy.shallows@tnc.org  
+Phone: (860) 377-5248
