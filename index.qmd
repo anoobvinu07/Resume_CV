@@ -1,0 +1,25 @@
+---
+format: 
+  html:
+    page-layout: article
+    toc: false
+    sidebar: false
+    anchor-sections: false
+    theme:
+      light: style.scss
+    css: [index.css]
+image: ""
+title: ""
+# about:
+#   template: marquee
+  # id: about-block
+  # image-width: "100%"
+---
+
+
+
+
+# Resume and CV
+## Anoob Prakash
+
+[Resume](Resume/prakash_resume.pdf)
