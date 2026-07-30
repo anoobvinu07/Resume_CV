@@ -29,48 +29,20 @@ sidebar:
           exp: 
             text: "2 yrs."
             num: 0.2
-        - text: GIS
-          exp: 
-            text: "6 yrs."
-            num: 0.6
-        - text: ML
-          exp: 
-            text: "2 yr."
-            num: 0.2
-        - text: Rmarkdown
-          exp: 
-            text: "8 yrs."
-            num: .8
-        - text: Quarto
-          exp: 
-            text: "4 yr."
-            num: 0.4
-        - text: Bioinformatics
-          exp: 
-            text: "6 yrs."
-            num: 0.6
         - text: UNIX
           exp: 
             text: "7 years"
             num: 0.7
-    - name: Fellowship
-      items:
-        - text: "GradCAMP Climate Scholar"
-          inst: "USDA and West Virginia State University"
-          time: "2023 - 2024"
-        - text: "NSF Research Trainee under Quantitative and Evolutionary STEM Training (QuEST) "
-          inst: "University of Vermont"
-          time: "2018 - 2023"
+    
     - name: Education
       items:
         - text: "Ph.D. Plant Biology"
           inst: "University of Vermont"
           time: "2018 - 2025"
-          details: "Investigated range-wide genotypic and phenotypic variation in long lived species with molecular and machine learning approaches"
         - text: "MSc. Tree Physiology and Breeding"
           inst: "Kerala Agricultural University"
           time: "2011 - 2014"
-          details: "Investigated the impact of industrial particulate pollution on trees"          
+    
     - name: Tools
       items:
         - Git
@@ -161,55 +133,26 @@ tibble::tribble(
 
 \textcolor[HTML]{6A2C70}{Applications in Plant Science} \textcolor[HTML]{B83B5E}{(2024)}. 
 [**Bringing genomics to the field: An integrative approach to seed sourcing for forest restoration**](https://doi.org/10.1002/aps3.11600).   
-_**Anoob Prakash**, Thibaut Capblancq, Kathryn Shallows, David Saville, Deborah Landau, Chad Landress, Tal Jacobs, Stephen Keller_. 
+
 
 \vspace{0.8em}
 
 \textcolor[HTML]{6A2C70}{Ecological Monographs} \textcolor[HTML]{B83B5E}{(2023)}. 
 [**Novel genomic offset metrics integrate local adaptation into habitat suitability forecasts and inform assisted migration**](https://doi.org/10.1002/ecm.1593).  
-*Susanne Lachmuth, Thibaut Capblancq, **Anoob Prakash**, Stephen R. Keller, Matthew C. Fitzpatrick*. 
+
 
 \vspace{0.8em}
 
 \textcolor[HTML]{6A2C70}{Philosophical Transactions: Biological Sciences} \textcolor[HTML]{B83B5E}{(2022)}. 
 [**Genotypic variation and plasticity in climate-adaptive traits after range expansion and fragmentation of red spruce (Picea rubens Sarg.)**](https://doi.org/10.1098/rstb.2021.0008).  
-_**Anoob Prakash**, Sonia DeYoung, Susanne Lachmuth, Jacquelyne L Adams, Kurt Johnsen, John R Butnor, David M Nelson, Matthew C Fitzpatrick, Stephen R Keller_. 
 
-# Projects
+# Fellowship
 
-See my [github profile](https://github.com/schochastics) for a comprehensive list of open source projects.
+\textcolor[HTML]{6A2C70}{GradCAMP Climate Scholar} |   \textcolor[HTML]{B83B5E}{2023-2024} | 
+*USDA \& West Virginia State University*
 
-```{r}
-#| label: proj
-#| output: asis
-tibble::tribble(
-    ~what, ~role, ~items,
-    "R packages", 
-    "Creator and Maintainer", 
-    c("edgebundle", "graphlayouts", "levelnet", "netrankr", "netUtils", "networkdata", "PSAWR", "roughnet", "roughsf", "rtoot", "Rtumblr", "signnet", "snahelper", "webbotparseR", "webtrackR"),
-    
-    
-    "R packages", 
-    "Contributor",
-    c("backbone", "ggraph", "multigraphr", "netropy", "rang", "rgraph6"),
-    
-    
-    "Quarto extensions", 
-    "Creator and Maintainer",
-    c("Academicons (shortcodes)", "Blackboard (revealjs theme)", "sketchy (html theme)", "share buttons (filter)", "nutshell (filter)", "quartocities (website template)", "quartocv (cv templates)"),
-    
-    
-    "soccerverse.com (football analytics website)", 
-    "Creator and Maintainer",
-    c(
-        "Manual and automated gathering of football results around the world",
-        "Harmonizing data (e.g. club names and managers)",
-        "Implementation of ranking algorithms",
-        "Predicting of league tables and matchforecasting",
-        "Uses R, JavaScript, HTML, and CSS",
-        "around 1000 visitors/month"
-    )
-) |>
-    cvproj(what = "what", role = "role", items = "items")
+\vspace{0.8em}
 
-```
+\textcolor[HTML]{6A2C70}{NSF  Research  Trainee  under Quantitative and Evolutionary STEM Training (QuEST)} | \textcolor[HTML]{B83B5E}{2018-2023} |
+*University of Vermont*
+

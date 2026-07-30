@@ -22,4 +22,5 @@ title: ""
 # Resume and CV
 ## Anoob Prakash
 
-[Resume](Resume/prakash_resume.pdf)
+### Resume
+[1page](Resume/1-page/prakash_resume_1page.pdf)

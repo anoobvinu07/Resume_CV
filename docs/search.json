@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Resume and CV",
     "section": "",
-    "text": "Resume"
+    "text": "1page"
   },
   {
     "objectID": "index.html#anoob-prakash",
     "href": "index.html#anoob-prakash",
     "title": "Resume and CV",
     "section": "",
-    "text": "Resume"
+    "text": "1page"
   },
   {
     "objectID": "CurriculumVittae/prakash_cv_twocolumn.html",
@@ -397,5 +397,12 @@
     "title": "Anoob Prakash",
     "section": "Additional Information",
     "text": "Additional Information\n\nMemberships: BSA, SSE, ASN\nCertifications: Responsible Conduct of Research; Statistics and R; Introduction to Python for Data Science\nReferences available on request"
+  },
+  {
+    "objectID": "Resume/2-page/prakash_resume.html",
+    "href": "Resume/2-page/prakash_resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Summary\nHighly skilled researcher with expertise in ecological and evolutionary genomics, plant biology, climate change and bioinformatics. Experienced in analyzing large-scale genomic data, conducting climate change adaptation studies, and teaching advanced scientific concepts. Adept at both independent and collaborative research in academic and non-academic settings.\n\n\nExperience\n\n\n\nSelected publications\n . Bringing genomics to the field: An integrative approach to seed sourcing for forest restoration.\nAnoob Prakash, Thibaut Capblancq, Kathryn Shallows, David Saville, Deborah Landau, Chad Landress, Tal Jacobs, Stephen Keller.\n . Novel genomic offset metrics integrate local adaptation into habitat suitability forecasts and inform assisted migration.\nSusanne Lachmuth, Thibaut Capblancq, Anoob Prakash, Stephen R. Keller, Matthew C. Fitzpatrick.\n . Genotypic variation and plasticity in climate-adaptive traits after range expansion and fragmentation of red spruce (Picea rubens Sarg.).\nAnoob Prakash, Sonia DeYoung, Susanne Lachmuth, Jacquelyne L Adams, Kurt Johnsen, John R Butnor, David M Nelson, Matthew C Fitzpatrick, Stephen R Keller.\n\n\nProjects\nSee my github profile for a comprehensive list of open source projects."
   }
 ]
