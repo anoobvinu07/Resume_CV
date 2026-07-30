@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anoob Prakash"
+  description: "Resume and CV for Anoob Prakash"
+  image: ""
+  favicon: ""
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: ""
+    
+    # your sub-pages
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/anoob-prakash/
+      - icon: google
+        href: https://scholar.google.com/citations?hl=en&user=jIOSRMkAAAAJ
+      - icon: github
+        href: https://github.com/anoobvinu07
+      - icon: envelope
+        aria-label: email
+        href: "mailto:anoobvinu@gmail.com"
+      
+
+        
+  # person-workspace
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    center: |
+      <span class="faux-block">
+      © Copyright <span id="year"></span> | Anoob Prakash
+      </span>
+      <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+      </script>
+ 
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      light: style.scss
+     
+
+      
+      # - style2-dark.scss
+    toc: true
+    toc-depth: 4
+    toc-title: ""
+    footnotes-hover: true
+    highlight-style: tango
